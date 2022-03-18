@@ -1,1 +1,1 @@
-# twitter_clone
+# django
